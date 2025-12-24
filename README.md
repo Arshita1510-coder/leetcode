@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0851-loud-and-rich](https://github.com/Arshita1510-coder/leetcode/tree/master/0851-loud-and-rich) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/Arshita1510-coder/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Arshita1510-coder/leetcode/tree/master/0851-loud-and-rich) |
+| [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/Arshita1510-coder/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -52,4 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Union Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->

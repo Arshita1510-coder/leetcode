@@ -1,28 +1,53 @@
-class Solution {
-    int[][] DIR = new int[][]{{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-    public int minCost(int[][] grid) {
-        int m = grid.length, n = grid[0].length;
-        PriorityQueue<int[]> q = new PriorityQueue<>((o1, o2) -> o1[0] - o2[0]); // minHeap by cost
-        q.offer(new int[]{0, 0, 0});
-        int[][] dist = new int[m][n];
-        for (int i = 0; i < m; i++) Arrays.fill(dist[i], Integer.MAX_VALUE);
-        dist[0][0] = 0;
-        while (!q.isEmpty()) {
-            int[] top = q.poll();
-            int cost = top[0], r = top[1], c = top[2];
-            if (dist[r][c] != cost) continue; // avoid outdated (dist[r,c], r, c) to traverse neighbors again!
-            for (int i = 0; i < 4; i++) {
-                int nr = r + DIR[i][0], nc = c + DIR[i][1];
-                if (nr >= 0 && nr < m && nc >= 0 && nc < n) {
-                    int ncost = cost;
-                    if (i != (grid[r][c] - 1)) ncost += 1; // change direction -> ncost = cost + 1
-                    if (dist[nr][nc] > ncost) {
-                        dist[nr][nc] = ncost;
-                        q.offer(new int[]{ncost, nr, nc});
-                    }
-                }
-            }
-        }
-        return dist[m - 1][n - 1];
+class Pair{
+    int row;
+    int col;
+    int cost;
+    Pair(int row,int col,int cost){
+        this.row=row;
+        this.col=col;
+        this.cost=cost;
     }
 }
+class Solution {
+    
+    public int minCost(int[][] grid) {
+        int m=grid.length;
+        int n=grid[0].length;
+        int[][]dist=new int[m][n];
+        for(int i=0;i<m;i++){
+            Arrays.fill(dist[i],Integer.MAX_VALUE);
+        }
+        int drow[]={0,0,1,-1};
+        int dcol[]={1,-1,0,0};
+        PriorityQueue<Pair>pq=new PriorityQueue<>((x,y)->x.cost-y.cost);
+        dist[0][0]=0;
+        pq.offer(new Pair(0,0,0));
+        while(!pq.isEmpty()){
+            Pair curr=pq.poll();
+            int r=curr.row;
+            int c=curr.col;
+            int currCost=curr.cost;
+
+            if(currCost>dist[r][c]) continue;
+
+            for(int k=0;k<4;k++){
+                int nr=r+drow[k];
+                int nc=c+dcol[k];
+                if(nr<0||nc<0||nr>=m||nc>=n) continue;
+                int extraCost=(grid[r][c]==k+1)?0:1;
+                int newCost=currCost+extraCost;
+
+                if(newCost<dist[nr][nc]){
+                    dist[nr][nc]=newCost;
+                    pq.offer(new Pair(nr,nc,newCost));
+                }
+
+
+            }
+        }
+        return dist[m-1][n-1];
+    }
+}
+
+
+        

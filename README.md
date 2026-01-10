@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Arshita1510-coder/leetcode/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/Arshita1510-coder/leetcode/tree/master/0851-loud-and-rich) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Arshita1510-coder/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/Arshita1510-coder/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arshita1510-coder/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Arshita1510-coder/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Arshita1510-coder/leetcode/tree/master/0851-loud-and-rich) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Arshita1510-coder/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/Arshita1510-coder/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arshita1510-coder/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arshita1510-coder/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0045-jump-game-ii) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Arshita1510-coder/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Arshita1510-coder/leetcode/tree/master/0050-powx-n) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Arshita1510-coder/leetcode/tree/master/0008-string-to-integer-atoi) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arshita1510-coder/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

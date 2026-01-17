@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Tree
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Arshita1510-coder/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0344-reverse-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
 | ------- |

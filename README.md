@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Arshita1510-coder/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Arshita1510-coder/leetcode/tree/master/0050-powx-n) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1922-count-good-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/1922-count-good-numbers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Arshita1510-coder/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Arshita1510-coder/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## String
 |  |
 | ------- |

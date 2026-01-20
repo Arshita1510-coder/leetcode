@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Arshita1510-coder/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Arshita1510-coder/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Linked List
 |  |
 | ------- |

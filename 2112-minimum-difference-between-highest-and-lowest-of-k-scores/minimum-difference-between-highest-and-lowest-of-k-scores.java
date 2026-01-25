@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public int minimumDifference(int[] nums, int k) {
         if(k==1) return 0;

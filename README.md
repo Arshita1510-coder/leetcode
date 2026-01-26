@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arshita1510-coder/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Arshita1510-coder/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Arshita1510-coder/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

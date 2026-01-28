@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Arshita1510-coder/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Arshita1510-coder/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Union Find
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0045-jump-game-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Arshita1510-coder/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arshita1510-coder/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Arshita1510-coder/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
 | ------- |

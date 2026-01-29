@@ -4,7 +4,6 @@ class Solution {
 
     static class State {
         int r, c, used, cost;
-
         State(int r, int c, int used, int cost) {
             this.r = r;
             this.c = c;
@@ -14,45 +13,47 @@ class Solution {
     }
 
     public int minCost(int[][] grid, int k) {
-        int m = grid.length;
-        int n = grid[0].length;
+        int m = grid.length, n = grid[0].length;
 
         int[][][] dist = new int[m][n][k + 1];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                Arrays.fill(dist[i][j], Integer.MAX_VALUE);
-            }
-        }
+        for (int[][] layer : dist)
+            for (int[] row : layer)
+                Arrays.fill(row, Integer.MAX_VALUE);
+
+        // Preprocess cells by value
+        List<int[]> cells = new ArrayList<>();
+        for (int i = 0; i < m; i++)
+            for (int j = 0; j < n; j++)
+                cells.add(new int[]{grid[i][j], i, j});
+
+        cells.sort(Comparator.comparingInt(a -> a[0]));
 
         PriorityQueue<State> pq = new PriorityQueue<>(
-            (a, b) -> a.cost - b.cost
+            Comparator.comparingInt(a -> a.cost)
         );
 
-        // ✅ Start with cost = 0
         dist[0][0][0] = 0;
         pq.offer(new State(0, 0, 0, 0));
 
         int[] dr = {0, 1};
         int[] dc = {1, 0};
 
+        // teleportUsed -> pointer in sorted cells
+        int[] teleIdx = new int[k + 1];
+
         while (!pq.isEmpty()) {
             State cur = pq.poll();
-
             int r = cur.r, c = cur.c;
-            int used = cur.used;
-            int cost = cur.cost;
+            int used = cur.used, cost = cur.cost;
 
             if (cost > dist[r][c][used]) continue;
 
-            if (r == m - 1 && c == n - 1) {
+            if (r == m - 1 && c == n - 1)
                 return cost;
-            }
 
             // Normal moves
             for (int d = 0; d < 2; d++) {
-                int nr = r + dr[d];
-                int nc = c + dc[d];
-
+                int nr = r + dr[d], nc = c + dc[d];
                 if (nr < m && nc < n) {
                     int newCost = cost + grid[nr][nc];
                     if (newCost < dist[nr][nc][used]) {
@@ -64,15 +65,17 @@ class Solution {
 
             // Teleport
             if (used < k) {
-                for (int x = 0; x < m; x++) {
-                    for (int y = 0; y < n; y++) {
-                        if (grid[x][y] <= grid[r][c]) {
-                            if (cost < dist[x][y][used + 1]) {
-                                dist[x][y][used + 1] = cost;
-                                pq.offer(new State(x, y, used + 1, cost));
-                            }
-                        }
+                while (teleIdx[used] < cells.size() &&
+                       cells.get(teleIdx[used])[0] <= grid[r][c]) {
+
+                    int[] cell = cells.get(teleIdx[used]);
+                    int x = cell[1], y = cell[2];
+
+                    if (cost < dist[x][y][used + 1]) {
+                        dist[x][y][used + 1] = cost;
+                        pq.offer(new State(x, y, used + 1, cost));
                     }
+                    teleIdx[used]++;
                 }
             }
         }

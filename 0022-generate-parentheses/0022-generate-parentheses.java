@@ -6,7 +6,7 @@ class Solution {
         
     }
     private void solve(List<String>ans,String curr,int open,int close,int n){
-        if(curr.length()==2*n){
+        if(open==n&&close==n){
             ans.add(curr);
             return;
         }

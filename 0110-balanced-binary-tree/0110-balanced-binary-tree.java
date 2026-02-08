@@ -20,13 +20,12 @@ class Solution {
         
     }
     public int dfsHeight(TreeNode root){
-        if(root==null) return 0;
-        int leftH=dfsHeight(root.left);
-        if(leftH==-1) return -1;
-        int rightH=dfsHeight(root.right);
-        if(rightH==-1) return -1;
-
-        if(Math.abs(leftH-rightH)>1) return -1;
-        return 1+Math.max(leftH,rightH);
+       if(root==null) return 0;
+       int leftH=root.left(dfsHeight);
+       if(leftH==-1) return -1;
+       int rightH=root.right(dfsHeight);
+       if(rightH==-1) return -1;
+       if (Math.abs((rightH-leftH)>1)) return -1;
+       return Math.max(leftH,rightH)+1;
     }
 }

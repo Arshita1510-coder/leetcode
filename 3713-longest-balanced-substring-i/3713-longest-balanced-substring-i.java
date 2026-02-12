@@ -5,22 +5,17 @@ class Solution {
         int n=s.length();
         int maxLen=0;
         for(int i=0;i<n;i++){
-            HashMap<Character,Integer>map=new HashMap<>();
+            int freq[]=new int[26];
+            int distinct=0;
+            int maxFreq=0;
             for(int j=i;j<n;j++){
-                char ch=s.charAt(j);
-                map.put(ch,map.getOrDefault(ch,0)+1);
-                int freq=-1;
-                boolean balanced=true;
-                for(int val:map.values()){
-                    if(freq==-1) freq=val;
-                    else if(freq!=val){
-                        balanced=false;
-                        break;
-                    }
-
-                }
-                if(balanced){
-                    maxLen=Math.max(maxLen,j-i+1);
+                int idx=s.charAt(j)-'a';
+                if(freq[idx]==0) distinct++;
+                freq[idx]++;
+                maxFreq=Math.max(maxFreq,freq[idx]);
+                int length=j-i+1;
+                if(maxFreq*distinct==length){
+                    maxLen=Math.max(maxLen,length);
                 }
             }
         }

@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshita1510-coder/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Tree
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arshita1510-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Arshita1510-coder/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0696-count-binary-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

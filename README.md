@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Arshita1510-coder/leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Arshita1510-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Arshita1510-coder/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/Arshita1510-coder/leetcode/tree/master/0799-champagne-tower) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arshita1510-coder/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Arshita1510-coder/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Arshita1510-coder/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Arshita1510-coder/leetcode/tree/master/0070-climbing-stairs) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arshita1510-coder/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Arshita1510-coder/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arshita1510-coder/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

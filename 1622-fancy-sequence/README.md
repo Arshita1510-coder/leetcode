@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/fancy-sequence">1728. Fancy Sequence</a></h2><h3>Hard</h3><hr><p>Write an API that generates fancy sequences using the <code>append</code>, <code>addAll</code>, and <code>multAll</code> operations.</p>
+<h2><a href="https://leetcode.com/problems/fancy-sequence">1622. Fancy Sequence</a></h2><h3>Hard</h3><hr><p>Write an API that generates fancy sequences using the <code>append</code>, <code>addAll</code>, and <code>multAll</code> operations.</p>
 
 <p>Implement the <code>Fancy</code> class:</p>
 

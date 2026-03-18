@@ -12,6 +12,8 @@ class Solution {
                 if(i>0&&j>0) pref[i][j]-=pref[i-1][j-1];
                 if(pref[i][j]<=k){
                     Count++;
+                }else{
+                    break;
                 }
 
             }

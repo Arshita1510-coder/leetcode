@@ -1,16 +1,5 @@
 class Solution {
-     public boolean subsetSumToK(int ind, int target, int[] nums,int[][]dp) {
-        if(target==0) return true;
-        if(ind==0) return (nums[0]==target);
-        if(dp[ind][target]!=-1) return dp[ind][target]==1;
-        boolean notTake=subsetSumToK(ind-1,target,nums,dp);
-        boolean take=false;
-        if(nums[ind]<=target){
-            take=subsetSumToK(ind-1,target-nums[ind],nums,dp);
-        }
-        dp[ind][target]=(notTake||take)?1:0;
-        return notTake||take;
-     }
+     
 
     public boolean canPartition(int[] nums) {
         int n=nums.length;
@@ -18,11 +7,21 @@ class Solution {
         for(int i=0;i<n;i++) totalSum+=nums[i];
         if(totalSum%2==1) return false;
         int target=totalSum/2;
-        int[][]dp=new int[n][target+1];
-        for(int row[]:dp){
-            Arrays.fill(row,-1);
+        boolean[][]dp=new boolean[n][target+1];
+        for(int i=0;i<n;i++) dp[i][0]=true;
+        if(nums[0]<=target) dp[0][nums[0]]=true;
+        for(int ind=1;ind<n;ind++){
+            for(int tar=1;tar<=target;tar++){
+                boolean nottake=dp[ind-1][tar];
+                boolean take=false;
+                if(nums[ind]<=tar){
+                    take=dp[ind-1][tar-nums[ind]];
+
+                }
+                dp[ind][tar]=nottake||take;
+            }
         }
-        return subsetSumToK(n-1,target,nums,dp);
+        return dp[n-1][target];
 
         
     }

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Arshita1510-coder/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0322-coin-change](https://github.com/Arshita1510-coder/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshita1510-coder/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Arshita1510-coder/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Arshita1510-coder/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0322-coin-change](https://github.com/Arshita1510-coder/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Arshita1510-coder/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/Arshita1510-coder/leetcode/tree/master/0799-champagne-tower) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arshita1510-coder/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Arshita1510-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Arshita1510-coder/leetcode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Arshita1510-coder/leetcode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Arshita1510-coder/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Arshita1510-coder/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer

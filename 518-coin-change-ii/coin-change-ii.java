@@ -1,24 +1,27 @@
 class Solution {
     public int change(int amount, int[] coins) {
         int n=coins.length;
-        long[][]dp=new long[n][amount+1];
+        long[]prev=new long[amount+1];
+        
         for(int i=0;i<=amount;i++){
             if(i%coins[0]==0){
-                dp[0][i]=1;
+                prev[i]=1;
             }
         }
         for(int ind=1;ind<n;ind++){
+            long curr[]=new long[amount+1];
             for(int target=0;target<=amount;target++){
-                long nottake=dp[ind-1][target];
+                long nottake=prev[target];
                 long take=0;
                 if(coins[ind]<=target){
-                    take=dp[ind][target-coins[ind]];
+                    take=curr[target-coins[ind]];
                 }
-                dp[ind][target]=nottake+take;
+                curr[target]=nottake+take;
 
             }
+            prev=curr;
         }
-        return (int)dp[n-1][amount];
+        return (int)prev[amount];
         
     }
 }

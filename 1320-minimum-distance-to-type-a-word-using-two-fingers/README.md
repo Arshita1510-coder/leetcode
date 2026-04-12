@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers">1443. Minimum Distance to Type a Word Using Two Fingers</a></h2><h3>Hard</h3><hr><img alt="" src="https://assets.leetcode.com/uploads/2020/01/02/leetcode_keyboard.png" style="width: 349px; height: 209px;" />
+<h2><a href="https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers">1320. Minimum Distance to Type a Word Using Two Fingers</a></h2><h3>Hard</h3><hr><img alt="" src="https://assets.leetcode.com/uploads/2020/01/02/leetcode_keyboard.png" style="width: 349px; height: 209px;" />
 <p>You have a keyboard layout as shown above in the <strong>X-Y</strong> plane, where each English uppercase letter is located at some coordinate.</p>
 
 <ul>

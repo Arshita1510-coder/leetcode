@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Arshita1510-coder/leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Arshita1510-coder/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Arshita1510-coder/leetcode/tree/main/0120-triangle/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Arshita1510-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Arshita1510-coder/leetcode/tree/master/0198-house-robber) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Arshita1510-coder/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Arshita1510-coder/leetcode/tree/main/0079-word-search/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Arshita1510-coder/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Arshita1510-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Arshita1510-coder/leetcode/tree/master/0242-valid-anagram) |

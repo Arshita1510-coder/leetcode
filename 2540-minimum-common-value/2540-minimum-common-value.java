@@ -4,6 +4,9 @@ class Solution {
         int m=nums2.length;
        int i=0;
        int j=0;
+       if(nums1[n-1]<nums2[0]||nums2[m-1]<nums1[0]){
+        return -1;
+       }
        while(i<n&&j<m){
         if(nums1[i]==nums2[j]){
             return nums1[i];

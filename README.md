@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Arshita1510-coder/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arshita1510-coder/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Arshita1510-coder/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Arshita1510-coder/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Arshita1510-coder/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Arshita1510-coder/leetcode/tree/master/2615-sum-of-distances) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arshita1510-coder/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Arshita1510-coder/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/Arshita1510-coder/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Arshita1510-coder/leetcode/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Arshita1510-coder/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arshita1510-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshita1510-coder/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2540-minimum-common-value](https://github.com/Arshita1510-coder/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arshita1510-coder/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arshita1510-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2540-minimum-common-value](https://github.com/Arshita1510-coder/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Arshita1510-coder/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arshita1510-coder/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Arshita1510-coder/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |

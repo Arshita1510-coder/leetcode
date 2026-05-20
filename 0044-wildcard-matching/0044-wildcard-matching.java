@@ -3,10 +3,11 @@ class Solution {
     public boolean isMatch(String s, String p) {
         int n=p.length();
         int m=s.length();
-        Boolean[][]dp=new Boolean[n+1][m+1];
-        dp[0][0]=true;
+        Boolean[]prev=new Boolean[m+1];
+        Boolean[]curr=new Boolean[m+1];
+        prev[0]=true;
         for(int j=1;j<=m;j++){
-            dp[0][j]=false;
+            prev[j]=false;
         }
         for(int i=1;i<=n;i++){
             boolean flag=true;
@@ -17,20 +18,22 @@ class Solution {
                 }
                 
             }
-            dp[i][0]=flag;
-        }
-        for(int i=1;i<=n;i++){
+            curr[0]=flag;
+        
+        
+            
             for(int j=1;j<=m;j++){
                 if(p.charAt(i-1)==s.charAt(j-1)||p.charAt(i-1)=='?'){
-                    dp[i][j]=dp[i-1][j-1];
+                    curr[j]=prev[j-1];
                 }else if(p.charAt(i-1)=='*'){
-                    dp[i][j]=dp[i-1][j]||dp[i][j-1];
+                    curr[j]=prev[j]||curr[j-1];
                 }else{
-                     dp[i][j]=false;
+                     curr[j]=false;
                 }
             }
+            prev=curr.clone();
         }
-        return dp[n][m];
+        return prev[m];
 
         
        

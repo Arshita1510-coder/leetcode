@@ -1,23 +1,21 @@
 class Solution {
-    public static int getAns(int[]prices,int n,int ind,int buy,int fee,int[][]dp){
-        if(ind==n) return 0;
-        if(dp[ind][buy]!=-1) return dp[ind][buy];
-        int profit=0;
-        if(buy!=0){
-            profit=Math.max(-prices[ind]+getAns(prices,n,ind+1,0,fee,dp),0+getAns(prices,n,ind+1,1,fee,dp));
-        }else{
-            profit=Math.max(prices[ind]-fee+getAns(prices,n,ind+1,1,fee,dp),0+getAns(prices,n,ind+1,0,fee,dp));
-        }
-        return dp[ind][buy]=profit;
-    }
+   
     public int maxProfit(int[] prices, int fee) {
         int n=prices.length;
-        int[][]dp=new int[n][2];
-        for(int[]row:dp){
-            Arrays.fill(row,-1);
-        }
+        int[][]dp=new int[n+1][2];
         if(n==0) return 0;
-        return getAns(prices,n,0,1,fee,dp);
+        for(int ind=n-1;ind>=0;ind--){
+            for(int buy=0;buy<=1;buy++){
+                int profit=0;
+                if(buy!=0){
+                    profit=Math.max(-prices[ind]+dp[ind+1][0],0+dp[ind+1][1]);
+                }else{
+                    profit=Math.max(prices[ind]-fee+dp[ind+1][1],0+dp[ind+1][0]);
+                }
+                dp[ind][buy]=profit;
+            }
+        }
+        return dp[0][1];
         
     }
 }

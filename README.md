@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Arshita1510-coder/leetcode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Arshita1510-coder/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Arshita1510-coder/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0312-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Arshita1510-coder/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Arshita1510-coder/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Arshita1510-coder/leetcode/tree/master/0396-rotate-function) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Arshita1510-coder/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Arshita1510-coder/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0312-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Arshita1510-coder/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Arshita1510-coder/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Arshita1510-coder/leetcode/tree/master/0396-rotate-function) |

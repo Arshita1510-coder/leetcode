@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arshita1510-coder/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Graph
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Arshita1510-coder/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Arshita1510-coder/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arshita1510-coder/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arshita1510-coder/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Arshita1510-coder/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Geometry

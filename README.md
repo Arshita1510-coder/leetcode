@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshita1510-coder/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Arshita1510-coder/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Arshita1510-coder/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Arshita1510-coder/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Arshita1510-coder/leetcode/tree/master/0216-combination-sum-iii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshita1510-coder/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Arshita1510-coder/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/0696-count-binary-substrings) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Arshita1510-coder/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/Arshita1510-coder/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Arshita1510-coder/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Arshita1510-coder/leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Arshita1510-coder/leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Arshita1510-coder/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Arshita1510-coder/leetcode/tree/master/0396-rotate-function) |

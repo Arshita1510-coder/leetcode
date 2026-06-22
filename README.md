@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arshita1510-coder/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Arshita1510-coder/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0136-single-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arshita1510-coder/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshita1510-coder/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arshita1510-coder/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Arshita1510-coder/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Arshita1510-coder/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/0693-binary-number-with-alternating-bits) |

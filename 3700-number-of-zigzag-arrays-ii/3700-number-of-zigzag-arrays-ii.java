@@ -1,16 +1,15 @@
 class Solution {
-    static final long MOD = 1_000_000_007L;
-
+    private static final long MOD = 1000000007L;
+    
     public int zigZagArrays(int n, int l, int r) {
+       
         int m = r - l + 1;
         int size = 2 * m;
-
-        // Base state for length = 2
-        long[] state = new long[size];
+         long[] state = new long[size];
 
         for (int x = 0; x < m; x++) {
-            state[x] = x;                 // up[x]
-            state[m + x] = m - x - 1;    // down[x]
+            state[x] = x;                 
+            state[m + x] = m - x - 1;    
         }
 
         if (n == 2) {
@@ -21,14 +20,14 @@ class Solution {
 
         long[][] T = new long[size][size];
 
-        // up'[x] = sum of down[y] where y < x
+        
         for (int x = 0; x < m; x++) {
             for (int y = 0; y < x; y++) {
                 T[x][m + y] = 1;
             }
         }
 
-        // down'[x] = sum of up[y] where y > x
+        
         for (int x = 0; x < m; x++) {
             for (int y = x + 1; y < m; y++) {
                 T[m + x][y] = 1;

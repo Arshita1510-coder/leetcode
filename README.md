@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Arshita1510-coder/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arshita1510-coder/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Arshita1510-coder/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Arshita1510-coder/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0040-combination-sum-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arshita1510-coder/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Arshita1510-coder/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshita1510-coder/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |

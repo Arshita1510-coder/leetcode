@@ -4,12 +4,7 @@ class Solution {
         int n=arr.length;
         arr[0]=1;
         for(int i=1;i<n;i++){
-            if(Math.abs(arr[i]-arr[i-1])<=1){
-               
-            }else{
-                arr[i]=arr[i-1]+1;
-               
-            }
+            arr[i]=Math.min(arr[i],arr[i-1]+1);
         }
         return arr[arr.length-1];
 

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Arshita1510-coder/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Arshita1510-coder/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arshita1510-coder/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Arshita1510-coder/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/Arshita1510-coder/leetcode/tree/master/0078-subsets) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Arshita1510-coder/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Arshita1510-coder/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/Arshita1510-coder/leetcode/tree/main/0079-word-search/) | Medium |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Arshita1510-coder/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Arshita1510-coder/leetcode/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Arshita1510-coder/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |

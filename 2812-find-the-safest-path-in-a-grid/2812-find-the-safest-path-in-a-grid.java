@@ -1,129 +1,68 @@
-import java.util.*;
-
 class Solution {
+      private int[] roww = {0, 0, -1, 1};
+    private int[] coll = {-1, 1, 0, 0};
+    private void bfs(List<List<Integer>> grid, int[][] score, int n) {
+        Queue<int[]> q = new LinkedList<>();
 
-    int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
-
-    class DSU {
-        int[] parent;
-        int[] rank;
-
-        DSU(int n) {
-            parent = new int[n];
-            rank = new int[n];
-
-            for(int i=0;i<n;i++)
-                parent[i]=i;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid.get(i).get(j) == 1) {
+                    score[i][j] = 0;
+                    q.offer(new int[]{i, j});
+                }
+            }
         }
 
-        int find(int x){
-            if(parent[x]!=x)
-                parent[x]=find(parent[x]);
-            return parent[x];
-        }
+        while (!q.isEmpty()) {
+            int[] t = q.poll();
+            int x = t[0], y = t[1];
+            int s = score[x][y];
 
-        void union(int a,int b){
-            int pa=find(a);
-            int pb=find(b);
+            for (int i = 0; i < 4; i++) {
+                int newX = x + roww[i];
+                int newY = y + coll[i];
 
-            if(pa==pb) return;
-
-            if(rank[pa]<rank[pb]){
-                parent[pa]=pb;
-            }else if(rank[pb]<rank[pa]){
-                parent[pb]=pa;
-            }else{
-                parent[pb]=pa;
-                rank[pa]++;
+                if (newX >= 0 && newX < n && newY >= 0 && newY < n && score[newX][newY] > 1 + s) {
+                    score[newX][newY] = 1 + s;
+                    q.offer(new int[]{newX, newY});
+                }
             }
         }
     }
-
     public int maximumSafenessFactor(List<List<Integer>> grid) {
+         int n = grid.size();
+        if (grid.get(0).get(0) == 1 || grid.get(n - 1).get(n - 1) == 1) {
+            return 0;
+        }
 
-        int n=grid.size();
-        int[][] dist=new int[n][n];
+        int[][] score = new int[n][n];
+        for (int[] row : score) Arrays.fill(row, Integer.MAX_VALUE);
+        bfs(grid, score, n);
 
-        for(int[] row:dist)
-            Arrays.fill(row,-1);
+        boolean[][] vis = new boolean[n][n];
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[0] - a[0]);
+        pq.offer(new int[]{score[0][0], 0, 0});
 
-        Queue<int[]> q=new LinkedList<>();
+        while (!pq.isEmpty()) {
+            int[] temp = pq.poll();
+            int safe = temp[0];
+            int i = temp[1], j = temp[2];
 
-        // Multi-source BFS
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(grid.get(i).get(j)==1){
-                    dist[i][j]=0;
-                    q.offer(new int[]{i,j});
+            if (i == n - 1 && j == n - 1) return safe;
+            vis[i][j] = true;
+
+            for (int k = 0; k < 4; k++) {
+                int newX = i + roww[k];
+                int newY = j + coll[k];
+
+                if (newX >= 0 && newX < n && newY >= 0 && newY < n && !vis[newX][newY]) {
+                    int s = Math.min(safe, score[newX][newY]);
+                    pq.offer(new int[]{s, newX, newY});
+                    vis[newX][newY] = true;
                 }
             }
         }
 
-        while(!q.isEmpty()){
-
-            int[] cur=q.poll();
-
-            int x=cur[0];
-            int y=cur[1];
-
-            for(int[] d:dir){
-
-                int nx=x+d[0];
-                int ny=y+d[1];
-
-                if(nx>=0 && ny>=0 && nx<n && ny<n && dist[nx][ny]==-1){
-
-                    dist[nx][ny]=dist[x][y]+1;
-                    q.offer(new int[]{nx,ny});
-                }
-            }
-        }
-
-        // Store all cells
-        List<int[]> cells=new ArrayList<>();
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                cells.add(new int[]{dist[i][j],i,j});
-            }
-        }
-
-        // Sort by decreasing safeness
-        Collections.sort(cells,(a,b)->b[0]-a[0]);
-
-        DSU dsu=new DSU(n*n);
-
-        boolean[][] active=new boolean[n][n];
-
-        for(int[] cell:cells){
-
-            int safe=cell[0];
-            int x=cell[1];
-            int y=cell[2];
-
-            active[x][y]=true;
-
-            int id=x*n+y;
-
-            for(int[] d:dir){
-
-                int nx=x+d[0];
-                int ny=y+d[1];
-
-                if(nx>=0 && ny>=0 && nx<n && ny<n && active[nx][ny]){
-
-                    int nid=nx*n+ny;
-                    dsu.union(id,nid);
-                }
-            }
-
-            if(active[0][0] && active[n-1][n-1] &&
-                    dsu.find(0)==dsu.find(n*n-1)){
-
-                return safe;
-            }
-        }
-
-        return 0;
+        return -1;
     }
-}
+}   

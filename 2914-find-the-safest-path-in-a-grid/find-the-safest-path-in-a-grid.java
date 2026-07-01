@@ -2,21 +2,21 @@ import java.util.*;
 
 class Solution {
 
-    int[][] dirs = {{1,0},{-1,0},{0,1},{0,-1}};
+    int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
 
     public int maximumSafenessFactor(List<List<Integer>> grid) {
 
         int n = grid.size();
         int[][] dist = new int[n][n];
 
-        // Initialize distances
+        
         for (int i = 0; i < n; i++) {
             Arrays.fill(dist[i], -1);
         }
 
+        
         Queue<int[]> q = new LinkedList<>();
 
-        // Push all thieves into queue (Multi-source BFS)
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid.get(i).get(j) == 1) {
@@ -26,14 +26,12 @@ class Solution {
             }
         }
 
-        // Multi-source BFS
         while (!q.isEmpty()) {
             int[] curr = q.poll();
-
             int x = curr[0];
             int y = curr[1];
 
-            for (int[] d : dirs) {
+            for (int[] d : dir) {
                 int nx = x + d[0];
                 int ny = y + d[1];
 
@@ -44,61 +42,42 @@ class Solution {
             }
         }
 
-        int low = 0;
-        int high = 2 * n;
-        int ans = 0;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (canReach(dist, mid)) {
-                ans = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
-
-        return ans;
-    }
-
-    private boolean canReach(int[][] dist, int safe) {
-
-        int n = dist.length;
-
-        if (dist[0][0] < safe || dist[n - 1][n - 1] < safe)
-            return false;
+       
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+                (a, b) -> b[0] - a[0]);
 
         boolean[][] vis = new boolean[n][n];
-        Queue<int[]> q = new LinkedList<>();
 
-        q.offer(new int[]{0, 0});
-        vis[0][0] = true;
+        pq.offer(new int[]{dist[0][0], 0, 0});
 
-        while (!q.isEmpty()) {
+        while (!pq.isEmpty()) {
 
-            int[] curr = q.poll();
-            int x = curr[0];
-            int y = curr[1];
+            int[] curr = pq.poll();
+
+            int safe = curr[0];
+            int x = curr[1];
+            int y = curr[2];
+
+            if (vis[x][y]) continue;
+            vis[x][y] = true;
 
             if (x == n - 1 && y == n - 1)
-                return true;
+                return safe;
 
-            for (int[] d : dirs) {
+            for (int[] d : dir) {
 
                 int nx = x + d[0];
                 int ny = y + d[1];
 
-                if (nx >= 0 && ny >= 0 && nx < n && ny < n &&
-                        !vis[nx][ny] &&
-                        dist[nx][ny] >= safe) {
+                if (nx >= 0 && ny >= 0 && nx < n && ny < n && !vis[nx][ny]) {
 
-                    vis[nx][ny] = true;
-                    q.offer(new int[]{nx, ny});
+                    int newSafe = Math.min(safe, dist[nx][ny]);
+
+                    pq.offer(new int[]{newSafe, nx, ny});
                 }
             }
         }
 
-        return false;
+        return 0;
     }
 }

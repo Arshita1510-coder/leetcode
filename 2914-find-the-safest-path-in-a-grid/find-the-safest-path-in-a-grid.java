@@ -4,77 +4,123 @@ class Solution {
 
     int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
 
+    class DSU {
+        int[] parent;
+        int[] rank;
+
+        DSU(int n) {
+            parent = new int[n];
+            rank = new int[n];
+
+            for(int i=0;i<n;i++)
+                parent[i]=i;
+        }
+
+        int find(int x){
+            if(parent[x]!=x)
+                parent[x]=find(parent[x]);
+            return parent[x];
+        }
+
+        void union(int a,int b){
+            int pa=find(a);
+            int pb=find(b);
+
+            if(pa==pb) return;
+
+            if(rank[pa]<rank[pb]){
+                parent[pa]=pb;
+            }else if(rank[pb]<rank[pa]){
+                parent[pb]=pa;
+            }else{
+                parent[pb]=pa;
+                rank[pa]++;
+            }
+        }
+    }
+
     public int maximumSafenessFactor(List<List<Integer>> grid) {
 
-        int n = grid.size();
-        int[][] dist = new int[n][n];
+        int n=grid.size();
+        int[][] dist=new int[n][n];
 
-        
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(dist[i], -1);
-        }
+        for(int[] row:dist)
+            Arrays.fill(row,-1);
 
-        
-        Queue<int[]> q = new LinkedList<>();
+        Queue<int[]> q=new LinkedList<>();
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid.get(i).get(j) == 1) {
-                    dist[i][j] = 0;
-                    q.offer(new int[]{i, j});
+        // Multi-source BFS
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(grid.get(i).get(j)==1){
+                    dist[i][j]=0;
+                    q.offer(new int[]{i,j});
                 }
             }
         }
 
-        while (!q.isEmpty()) {
-            int[] curr = q.poll();
-            int x = curr[0];
-            int y = curr[1];
+        while(!q.isEmpty()){
 
-            for (int[] d : dir) {
-                int nx = x + d[0];
-                int ny = y + d[1];
+            int[] cur=q.poll();
 
-                if (nx >= 0 && ny >= 0 && nx < n && ny < n && dist[nx][ny] == -1) {
-                    dist[nx][ny] = dist[x][y] + 1;
-                    q.offer(new int[]{nx, ny});
+            int x=cur[0];
+            int y=cur[1];
+
+            for(int[] d:dir){
+
+                int nx=x+d[0];
+                int ny=y+d[1];
+
+                if(nx>=0 && ny>=0 && nx<n && ny<n && dist[nx][ny]==-1){
+
+                    dist[nx][ny]=dist[x][y]+1;
+                    q.offer(new int[]{nx,ny});
                 }
             }
         }
 
-       
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-                (a, b) -> b[0] - a[0]);
+        // Store all cells
+        List<int[]> cells=new ArrayList<>();
 
-        boolean[][] vis = new boolean[n][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                cells.add(new int[]{dist[i][j],i,j});
+            }
+        }
 
-        pq.offer(new int[]{dist[0][0], 0, 0});
+        // Sort by decreasing safeness
+        Collections.sort(cells,(a,b)->b[0]-a[0]);
 
-        while (!pq.isEmpty()) {
+        DSU dsu=new DSU(n*n);
 
-            int[] curr = pq.poll();
+        boolean[][] active=new boolean[n][n];
 
-            int safe = curr[0];
-            int x = curr[1];
-            int y = curr[2];
+        for(int[] cell:cells){
 
-            if (vis[x][y]) continue;
-            vis[x][y] = true;
+            int safe=cell[0];
+            int x=cell[1];
+            int y=cell[2];
 
-            if (x == n - 1 && y == n - 1)
+            active[x][y]=true;
+
+            int id=x*n+y;
+
+            for(int[] d:dir){
+
+                int nx=x+d[0];
+                int ny=y+d[1];
+
+                if(nx>=0 && ny>=0 && nx<n && ny<n && active[nx][ny]){
+
+                    int nid=nx*n+ny;
+                    dsu.union(id,nid);
+                }
+            }
+
+            if(active[0][0] && active[n-1][n-1] &&
+                    dsu.find(0)==dsu.find(n*n-1)){
+
                 return safe;
-
-            for (int[] d : dir) {
-
-                int nx = x + d[0];
-                int ny = y + d[1];
-
-                if (nx >= 0 && ny >= 0 && nx < n && ny < n && !vis[nx][ny]) {
-
-                    int newSafe = Math.min(safe, dist[nx][ny]);
-
-                    pq.offer(new int[]{newSafe, nx, ny});
-                }
             }
         }
 

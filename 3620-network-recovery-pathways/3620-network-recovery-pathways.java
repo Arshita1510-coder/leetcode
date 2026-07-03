@@ -1,83 +1,75 @@
-import java.util.*;
-
 class Solution {
-    int n;
+    public int findMaxPathScore(int[][] edges, boolean[] online, long k) {
+        int n = online.length;
 
-    public boolean find(int limit, List<List<int[]>> adj,
-                        boolean[] online, long k){
+        ArrayList<int[]>[] graph = new ArrayList[n];
+        for (int i = 0; i < n; i++) graph[i] = new ArrayList<>();
 
-        PriorityQueue<long[]> pq =
-            new PriorityQueue<>((a,b) -> Long.compare(a[0], b[0]));
+        int[] indegree = new int[n];
 
-        long[] dist = new long[n];
-        Arrays.fill(dist, Long.MAX_VALUE);
-        dist[0] = 0;
+        for (int[] e : edges) {
+            graph[e[0]].add(new int[]{e[1], e[2]});
+            indegree[e[1]]++;
+        }
 
-        pq.offer(new long[]{0,0});
+        Queue<Integer> q = new ArrayDeque<>();
+        for (int i = 0; i < n; i++)
+            if (indegree[i] == 0)
+                q.offer(i);
 
-        while(!pq.isEmpty()){
-            long[] curr = pq.poll();
+        ArrayList<Integer> topo = new ArrayList<>();
 
-            long currCost = curr[0];
-            int node = (int) curr[1];
+        while (!q.isEmpty()) {
+            int u = q.poll();
+            topo.add(u);
 
-            if(currCost > dist[node]) continue;
+            for (int[] edge : graph[u]) {
+                if (--indegree[edge[0]] == 0)
+                    q.offer(edge[0]);
+            }
+        }
 
-            for(int[] nxt : adj.get(node)){
-                int nxtNode = nxt[0];
-                int cst = nxt[1];
+        int left = 0, right = 1_000_000_000;
+        int ans = -1;
 
-                if(cst < limit) continue;
-                if(nxtNode != n-1 && !online[nxtNode]) continue;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
 
-                long newCost = currCost + cst;
+            long INF = Long.MAX_VALUE / 4;
+            long[] dp = new long[n];
+            Arrays.fill(dp, INF);
+            dp[0] = 0;
 
-                if(newCost < dist[nxtNode]){
-                    dist[nxtNode] = newCost;
-                    pq.offer(new long[]{newCost, nxtNode});
+            for (int u : topo) {
+
+                if (dp[u] == INF)
+                    continue;
+
+                if (u != 0 && u != n - 1 && !online[u])
+                    continue;
+
+                for (int[] edge : graph[u]) {
+                    int v = edge[0];
+                    int w = edge[1];
+
+                    if (w < mid)
+                        continue;
+
+                    if (v != n - 1 && !online[v])
+                        continue;
+
+                    dp[v] = Math.min(dp[v], dp[u] + w);
                 }
             }
-        }
 
-        return dist[n-1] <= k;
-    }
-
-    public int findMaxPathScore(int[][] edges, boolean[] online, long k){
-        n = online.length;
-
-        List<List<int[]>> adj = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            adj.add(new ArrayList<>());
-        }
-
-        int low = Integer.MAX_VALUE;
-        int high = 0;
-
-        for(int[] e : edges){
-            int u = e[0];
-            int v = e[1];
-            int cst = e[2];
-
-            adj.get(u).add(new int[]{v,cst});
-
-            low = Math.min(low,cst);
-            high = Math.max(high,cst);
-        }
-
-        int res = -1;
-
-        while(low <= high){
-            int mid = low + (high-low)/2;
-
-            if(find(mid,adj,online,k)){
-                res = mid;
-                low = mid + 1;
-            }
-            else{
-                high = mid - 1;
+            if (dp[n - 1] <= k) {
+                ans = mid;
+                left = mid + 1;
+            } else {
+                right = mid - 1;
             }
         }
 
-        return res;
+        return ans;
     }
 }

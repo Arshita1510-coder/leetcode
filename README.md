@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Arshita1510-coder/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Arshita1510-coder/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |

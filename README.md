@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Arshita1510-coder/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Arshita1510-coder/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Arshita1510-coder/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/Arshita1510-coder/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Arshita1510-coder/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Arshita1510-coder/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1048-longest-string-chain](https://github.com/Arshita1510-coder/leetcode/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Arshita1510-coder/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Arshita1510-coder/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/Arshita1510-coder/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Arshita1510-coder/leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |

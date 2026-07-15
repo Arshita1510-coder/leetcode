@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Arshita1510-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/0696-count-binary-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Arshita1510-coder/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Arshita1510-coder/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0392-is-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/Arshita1510-coder/leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0494-target-sum) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arshita1510-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Arshita1510-coder/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arshita1510-coder/leetcode/tree/master/0583-delete-operation-for-two-strings) |

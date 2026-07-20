@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshita1510-coder/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Arshita1510-coder/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/Arshita1510-coder/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Arshita1510-coder/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arshita1510-coder/leetcode/tree/master/0217-contains-duplicate) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Arshita1510-coder/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0067-add-binary](https://github.com/Arshita1510-coder/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Arshita1510-coder/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Arshita1510-coder/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Arshita1510-coder/leetcode/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Arshita1510-coder/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Arshita1510-coder/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshita1510-coder/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Arshita1510-coder/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Arshita1510-coder/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Arshita1510-coder/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |

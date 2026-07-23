@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Arshita1510-coder/leetcode/tree/master/3379-transformed-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arshita1510-coder/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Arshita1510-coder/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arshita1510-coder/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Arshita1510-coder/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arshita1510-coder/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Arshita1510-coder/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arshita1510-coder/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arshita1510-coder/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Arshita1510-coder/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Arshita1510-coder/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Arshita1510-coder/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arshita1510-coder/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Arshita1510-coder/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Arshita1510-coder/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Arshita1510-coder/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Arshita1510-coder/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Arshita1510-coder/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |

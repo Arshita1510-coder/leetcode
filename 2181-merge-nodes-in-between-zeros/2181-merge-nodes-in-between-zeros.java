@@ -10,25 +10,21 @@
  */
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-        ListNode dummy= new ListNode(-1);
-        ListNode temp=dummy;
-        head=head.next;
+        ListNode modify=head;
+        ListNode curr=head.next;
         int sum=0;
-        while(head!=null){
-            if(head.val!=0){
-                sum+=head.val;
+        while(curr!=null){
+            if(curr.val!=0){
+                sum+=curr.val;
             }else{
-                temp.next=new ListNode(sum);
-                temp=temp.next;
+                modify=modify.next;
+                modify.val=sum;
                 sum=0;
-
             }
-            head=head.next;
+            curr=curr.next;
         }
-        return dummy.next;
-
-
-
+        modify.next=null;
+        return head.next;
 
 
 

@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Arshita1510-coder/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Arshita1510-coder/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Arshita1510-coder/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arshita1510-coder/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Arshita1510-coder/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Arshita1510-coder/leetcode/tree/main/1840-maximum-building-height/) | Hard |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Arshita1510-coder/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Arshita1510-coder/leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arshita1510-coder/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Arshita1510-coder/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/Arshita1510-coder/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Arshita1510-coder/leetcode/tree/master/2573-find-the-string-with-lcp) |

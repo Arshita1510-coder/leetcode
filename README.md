@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Arshita1510-coder/leetcode/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Arshita1510-coder/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/Arshita1510-coder/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Arshita1510-coder/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Arshita1510-coder/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Arshita1510-coder/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Arshita1510-coder/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Arshita1510-coder/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Arshita1510-coder/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |

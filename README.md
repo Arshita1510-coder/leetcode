@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arshita1510-coder/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Arshita1510-coder/leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Arshita1510-coder/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Arshita1510-coder/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Arshita1510-coder/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Arshita1510-coder/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |

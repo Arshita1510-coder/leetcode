@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arshita1510-coder/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Arshita1510-coder/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Arshita1510-coder/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Arshita1510-coder/leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arshita1510-coder/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arshita1510-coder/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Arshita1510-coder/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Arshita1510-coder/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Arshita1510-coder/leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Arshita1510-coder/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Arshita1510-coder/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |

@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Arshita1510-coder/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arshita1510-coder/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/Arshita1510-coder/leetcode/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Arshita1510-coder/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Arshita1510-coder/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/0696-count-binary-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Arshita1510-coder/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/Arshita1510-coder/leetcode/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/Arshita1510-coder/leetcode/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arshita1510-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshita1510-coder/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1115,4 +1117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Arshita1510-coder/leetcode/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Arshita1510-coder/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->

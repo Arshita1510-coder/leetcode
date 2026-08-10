@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Arshita1510-coder/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arshita1510-coder/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Arshita1510-coder/leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Arshita1510-coder/leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arshita1510-coder/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Arshita1510-coder/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Arshita1510-coder/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Arshita1510-coder/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1622-fancy-sequence](https://github.com/Arshita1510-coder/leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Arshita1510-coder/leetcode/tree/main/1840-maximum-building-height/) | Hard |
@@ -1109,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Arshita1510-coder/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arshita1510-coder/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1121,4 +1124,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/Arshita1510-coder/leetcode/tree/master/0986-interval-list-intersections) |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->

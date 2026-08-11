@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Arshita1510-coder/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Arshita1510-coder/leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0457-circular-array-loop](https://github.com/Arshita1510-coder/leetcode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Arshita1510-coder/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Arshita1510-coder/leetcode/tree/master/0486-predict-the-winner) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Arshita1510-coder/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arshita1510-coder/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arshita1510-coder/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Arshita1510-coder/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Arshita1510-coder/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0761-special-binary-string) |

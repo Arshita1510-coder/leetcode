@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arshita1510-coder/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arshita1510-coder/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Arshita1510-coder/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Arshita1510-coder/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Arshita1510-coder/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arshita1510-coder/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arshita1510-coder/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Arshita1510-coder/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Arshita1510-coder/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arshita1510-coder/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## String Matching
 | Problem Name | Difficulty |

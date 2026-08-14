@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Arshita1510-coder/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arshita1510-coder/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Arshita1510-coder/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Arshita1510-coder/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arshita1510-coder/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Arshita1510-coder/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Arshita1510-coder/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arshita1510-coder/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Arshita1510-coder/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arshita1510-coder/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Arshita1510-coder/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

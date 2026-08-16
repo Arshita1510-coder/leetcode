@@ -7,8 +7,8 @@ class Solution {
         for(int i=1;i<n;i++){
             long pick=arr.get(i);
             if(i>1) pick+=prev2;
-            long nonpick=prev;
-            long curri=Math.max(pick,nonpick);
+            long notPick=prev;
+            long curri=Math.max(pick,notPick);
             prev2=prev;
             prev=curri;
         }
@@ -25,5 +25,5 @@ class Solution {
         }
         return (int)Math.max(solve(arr1),solve(arr2));
     }
-        
+       
 }

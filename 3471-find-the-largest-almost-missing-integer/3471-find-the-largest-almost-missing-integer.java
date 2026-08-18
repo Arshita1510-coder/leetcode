@@ -1,23 +1,44 @@
 class Solution {
     public int largestInteger(int[] nums, int k) {
-       HashMap<Integer,Integer>map=new HashMap<>();
+       if(k==1){
+        HashMap<Integer,Integer>freq=new HashMap<>();
+        for(int num:nums){
+            freq.put(num,freq.getOrDefault(num,0)+1);
+        }
+        int ans=-1;
+        for(int num:freq.keySet()){
+            if(freq.get(num)==1){
+                ans=Math.max(ans,num);
+            }
+        }
+        return ans;
+       }
+       if(k==nums.length){
+        int max=0;
+        for(int num:nums){
+            max=Math.max(max,num);
+        }
+        return max;
+       }
+       HashMap<Integer,Integer>count=new HashMap<>();
        for(int i=0;i<=nums.length-k;i++){
         HashSet<Integer>set=new HashSet<>();
         for(int j=i;j<i+k;j++){
             set.add(nums[j]);
         }
-        for(int x:set){
-            map.put(x,map.getOrDefault(x,0)+1);
+        for(int num:set){
+            count.put(num,count.getOrDefault(num,0)+1);
         }
+
+
        }
        int ans=-1;
-       for(int x:map.keySet()){
-        if(map.get(x)==1){
-            ans=Math.max(ans,x);
+       for(int num:count.keySet()){
+        if(count.get(num)==1){
+            ans=Math.max(ans,num);
         }
        }
        return ans;
-
         
     }
 }

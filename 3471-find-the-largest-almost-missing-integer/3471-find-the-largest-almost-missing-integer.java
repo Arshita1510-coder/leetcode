@@ -1,44 +1,24 @@
 class Solution {
     public int largestInteger(int[] nums, int k) {
-       if(k==1){
-        HashMap<Integer,Integer>freq=new HashMap<>();
-        for(int num:nums){
-            freq.put(num,freq.getOrDefault(num,0)+1);
-        }
-        int ans=-1;
-        for(int num:freq.keySet()){
-            if(freq.get(num)==1){
-                ans=Math.max(ans,num);
+         int n = nums.length;
+         int[] count = new int[51];
+         for (int i = 0; i <= n - k; i++) {
+            boolean[] seen = new boolean[51];
+            for (int j = i; j < i + k; j++) {
+                seen[nums[j]] = true;
+            }
+            for (int x = 0; x <= 50; x++) {
+                if (seen[x]) {
+                    count[x]++;
+                }
             }
         }
-        return ans;
-       }
-       if(k==nums.length){
-        int max=0;
-        for(int num:nums){
-            max=Math.max(max,num);
-        }
-        return max;
-       }
-       HashMap<Integer,Integer>count=new HashMap<>();
-       for(int i=0;i<=nums.length-k;i++){
-        HashSet<Integer>set=new HashSet<>();
-        for(int j=i;j<i+k;j++){
-            set.add(nums[j]);
-        }
-        for(int num:set){
-            count.put(num,count.getOrDefault(num,0)+1);
+        for (int x = 50; x >= 0; x--) {
+            if (count[x] == 1) {
+                return x;
+            }
         }
 
-
-       }
-       int ans=-1;
-       for(int num:count.keySet()){
-        if(count.get(num)==1){
-            ans=Math.max(ans,num);
-        }
-       }
-       return ans;
-        
+        return -1;
     }
 }

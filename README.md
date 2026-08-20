@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arshita1510-coder/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1598-crawler-log-folder](https://github.com/Arshita1510-coder/leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Arshita1510-coder/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Arshita1510-coder/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Arshita1510-coder/leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arshita1510-coder/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1544-make-the-string-great](https://github.com/Arshita1510-coder/leetcode/tree/main/1544-make-the-string-great/) | Easy |
+| [1598-crawler-log-folder](https://github.com/Arshita1510-coder/leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arshita1510-coder/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arshita1510-coder/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arshita1510-coder/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Arshita1510-coder/leetcode/tree/main/1544-make-the-string-great/) | Easy |
+| [1598-crawler-log-folder](https://github.com/Arshita1510-coder/leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arshita1510-coder/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |

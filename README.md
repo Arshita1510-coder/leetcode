@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Arshita1510-coder/leetcode/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arshita1510-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshita1510-coder/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Arshita1510-coder/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Arshita1510-coder/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arshita1510-coder/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Arshita1510-coder/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Arshita1510-coder/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Arshita1510-coder/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arshita1510-coder/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Arshita1510-coder/leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Arshita1510-coder/leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arshita1510-coder/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2000-reverse-prefix-of-word](https://github.com/Arshita1510-coder/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Arshita1510-coder/leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Trie

@@ -1,39 +1,48 @@
-
+class Pair{
+    int value;
+    int min;
+    Pair(int value,int min){
+        this.value=value;
+        this.min=min;
+    }
+}
 class MinStack {
-    Stack<Integer>stack;
-    Stack<Integer>minStack;
+    Stack<Pair>stack;
+    
     
     public MinStack() {
         stack=new Stack<>();
-        minStack=new Stack<>();
         
     }
     
     public void push(int value) {
-        stack.push(value);
-        if(minStack.isEmpty()){
-            minStack.push(value);
+        if(stack.isEmpty()){
+            stack.push(new Pair(value,value));
+
         }else{
-            minStack.push(Math.min(value,minStack.peek()));
-        }        
+            int currMin=Math.min(value,stack.peek().min);
+            stack.push(new Pair(value,currMin));
+        }
+       
          
         
     }
     
     public void pop() {
         stack.pop();
-        minStack.pop();
+        
         
     }
     
     public int top() {
-        return stack.peek();
+        return stack.peek().value;
+       
         
     }
     
     public int getMin() {
-        return minStack.peek();
-        
+        return stack.peek().min;
+       
     }
 }
 

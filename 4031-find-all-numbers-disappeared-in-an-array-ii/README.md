@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii">4031. Find All Numbers Disappeared in an Array II</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and two integers <code>lower</code> and <code>upper</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii">4383. Find All Numbers Disappeared in an Array II</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and two integers <code>lower</code> and <code>upper</code>.</p>
 
 <p>A <strong>missing integer</strong> is an integer in the inclusive range <code>[lower, upper]</code> that does not appear in <code>nums</code>.</p>
 

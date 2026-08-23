@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-ascii-palindromic">4381. Check ASCII Palindromic</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/check-ascii-palindromic">4030. Check ASCII Palindromic</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
 
 <p>Construct a <span data-keyword="binary-string"><strong>binary string</strong></span> by replacing each character in <code>s</code> with the 8-bit binary representation of its ASCII value, <strong>including leading zeros</strong>, while preserving the original order of the characters.</p>
 

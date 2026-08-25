@@ -1,14 +1,20 @@
 class Solution {
     public int numberOfPoints(List<List<Integer>> nums) {
-        HashSet<Integer>set=new HashSet<>();
+        boolean[]covered=new boolean[101];
         for(List<Integer>car:nums){
             int start=car.get(0);
             int end=car.get(1);
             for(int i=start;i<=end;i++){
-                set.add(i);
+                covered[i]=true;
             }
         }
-        return set.size();
+        int count=0;
+        for(boolean x:covered){
+            if(x){
+                count++;
+            }
+        }
+        return count;
 
         
     }

@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Arshita1510-coder/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Arshita1510-coder/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2848-points-that-intersect-with-cars](https://github.com/Arshita1510-coder/leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arshita1510-coder/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arshita1510-coder/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Arshita1510-coder/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Arshita1510-coder/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2848-points-that-intersect-with-cars](https://github.com/Arshita1510-coder/leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arshita1510-coder/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Arshita1510-coder/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Arshita1510-coder/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Arshita1510-coder/leetcode/tree/master/2615-sum-of-distances) |
+| [2848-points-that-intersect-with-cars](https://github.com/Arshita1510-coder/leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Arshita1510-coder/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Arshita1510-coder/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |

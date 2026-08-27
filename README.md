@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Arshita1510-coder/leetcode/tree/master/0014-longest-common-prefix) |
@@ -219,8 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arshita1510-coder/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Arshita1510-coder/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0079-word-search](https://github.com/Arshita1510-coder/leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0100-same-tree) |
@@ -244,8 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/Arshita1510-coder/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Graph
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0743-network-delay-time](https://github.com/Arshita1510-coder/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Arshita1510-coder/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Arshita1510-coder/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -257,14 +257,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0802-find-eventual-safe-states](https://github.com/Arshita1510-coder/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Arshita1510-coder/leetcode/tree/master/0851-loud-and-rich) |
 | [3620-network-recovery-pathways](https://github.com/Arshita1510-coder/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/Arshita1510-coder/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Arshita1510-coder/leetcode/tree/main/0322-coin-change/) | Medium |
@@ -286,8 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Arshita1510-coder/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshita1510-coder/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Arshita1510-coder/leetcode/tree/master/0013-roman-to-integer) |
@@ -304,7 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Arshita1510-coder/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0387-first-unique-character-in-a-string) |
-| [0409-longest-palindrome](https://github.com/Arshita1510-coder/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0409-longest-palindrome](https://github.com/Arshita1510-coder/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arshita1510-coder/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Arshita1510-coder/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/Arshita1510-coder/leetcode/tree/master/0457-circular-array-loop) |
@@ -356,8 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arshita1510-coder/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Arshita1510-coder/leetcode/tree/main/0016-3sum-closest/) | Medium |
@@ -402,8 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arshita1510-coder/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -412,8 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Arshita1510-coder/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0035-search-insert-position](https://github.com/Arshita1510-coder/leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arshita1510-coder/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -444,8 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Arshita1510-coder/leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arshita1510-coder/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -453,8 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Arshita1510-coder/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/Arshita1510-coder/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arshita1510-coder/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0063-unique-paths-ii) |
@@ -492,8 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Arshita1510-coder/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Union Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0778-swim-in-rising-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Arshita1510-coder/leetcode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Arshita1510-coder/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -501,8 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Arshita1510-coder/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Arshita1510-coder/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -519,8 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Arshita1510-coder/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Arshita1510-coder/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Arshita1510-coder/leetcode/tree/main/0044-wildcard-matching/) | Hard |
@@ -597,8 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0743-network-delay-time](https://github.com/Arshita1510-coder/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Arshita1510-coder/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arshita1510-coder/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -609,13 +609,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Arshita1510-coder/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Arshita1510-coder/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Arshita1510-coder/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-| [0409-longest-palindrome](https://github.com/Arshita1510-coder/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0409-longest-palindrome](https://github.com/Arshita1510-coder/leetcode/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arshita1510-coder/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arshita1510-coder/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -642,17 +642,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Biconnected Component
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Arshita1510-coder/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Minimum Spanning Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Arshita1510-coder/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0013-roman-to-integer](https://github.com/Arshita1510-coder/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Arshita1510-coder/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arshita1510-coder/leetcode/tree/master/0050-powx-n) |
@@ -708,14 +708,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arshita1510-coder/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Arshita1510-coder/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Arshita1510-coder/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arshita1510-coder/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshita1510-coder/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Arshita1510-coder/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Arshita1510-coder/leetcode/tree/master/0013-roman-to-integer) |
@@ -741,7 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0394-decode-string) |
-| [0409-longest-palindrome](https://github.com/Arshita1510-coder/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0409-longest-palindrome](https://github.com/Arshita1510-coder/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arshita1510-coder/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Arshita1510-coder/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -805,8 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Arshita1510-coder/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0044-wildcard-matching](https://github.com/Arshita1510-coder/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Arshita1510-coder/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Arshita1510-coder/leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -816,8 +816,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Arshita1510-coder/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/Arshita1510-coder/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Arshita1510-coder/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0090-subsets-ii) |
@@ -842,8 +842,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Arshita1510-coder/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arshita1510-coder/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arshita1510-coder/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Arshita1510-coder/leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -853,8 +853,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Arshita1510-coder/leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Arshita1510-coder/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Arshita1510-coder/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -897,8 +897,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Arshita1510-coder/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Arshita1510-coder/leetcode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Arshita1510-coder/leetcode/tree/master/0844-backspace-string-compare) |
@@ -922,20 +922,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arshita1510-coder/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Arshita1510-coder/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0729-my-calendar-i](https://github.com/Arshita1510-coder/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/Arshita1510-coder/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Arshita1510-coder/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0018-4sum) |
@@ -988,8 +988,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Arshita1510-coder/leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3731-find-missing-elements](https://github.com/Arshita1510-coder/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Arshita1510-coder/leetcode/tree/main/0071-simplify-path/) | Medium |
@@ -1015,14 +1015,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Arshita1510-coder/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [3174-clear-digits](https://github.com/Arshita1510-coder/leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/Arshita1510-coder/leetcode/tree/master/0014-longest-common-prefix) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arshita1510-coder/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshita1510-coder/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Arshita1510-coder/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -1042,17 +1042,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Arshita1510-coder/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0796-rotate-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Arshita1510-coder/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Arshita1510-coder/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/Arshita1510-coder/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/Arshita1510-coder/leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -1070,8 +1070,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arshita1510-coder/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Arshita1510-coder/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1081,8 +1081,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Arshita1510-coder/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Arshita1510-coder/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1291-sequential-digits](https://github.com/Arshita1510-coder/leetcode/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Arshita1510-coder/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1092,8 +1092,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/0039-combination-sum) |
@@ -1110,8 +1110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Arshita1510-coder/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Arshita1510-coder/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/Arshita1510-coder/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Arshita1510-coder/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/0190-reverse-bits) |
@@ -1124,8 +1124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0729-my-calendar-i](https://github.com/Arshita1510-coder/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0731-my-calendar-ii/) | Medium |
@@ -1137,16 +1137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Rolling Hash
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arshita1510-coder/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arshita1510-coder/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arshita1510-coder/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Arshita1510-coder/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
@@ -1154,12 +1154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arshita1510-coder/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arshita1510-coder/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/Arshita1510-coder/leetcode/tree/master/0070-climbing-stairs) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arshita1510-coder/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -1168,8 +1168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Arshita1510-coder/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/Arshita1510-coder/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Arshita1510-coder/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Arshita1510-coder/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -1178,48 +1178,48 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Arshita1510-coder/leetcode/tree/main/0732-my-calendar-iii/) | Hard |
 | [1622-fancy-sequence](https://github.com/Arshita1510-coder/leetcode/tree/master/1622-fancy-sequence) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/Arshita1510-coder/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Arshita1510-coder/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bitmask
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [3161-block-placement-queries](https://github.com/Arshita1510-coder/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Arshita1510-coder/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arshita1510-coder/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Arshita1510-coder/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Arshita1510-coder/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arshita1510-coder/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Arshita1510-coder/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Arshita1510-coder/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/Arshita1510-coder/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arshita1510-coder/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -1227,40 +1227,40 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Arshita1510-coder/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Arshita1510-coder/leetcode/tree/master/2029-stone-game-ix) |
 ## Pigeonhole Principle
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0523-continuous-subarray-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0056-merge-intervals](https://github.com/Arshita1510-coder/leetcode/tree/master/0056-merge-intervals) |
 ## Sweep Line
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0986-interval-list-intersections](https://github.com/Arshita1510-coder/leetcode/tree/master/0986-interval-list-intersections) |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Arshita1510-coder/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Arshita1510-coder/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/Arshita1510-coder/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Arshita1510-coder/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Arshita1510-coder/leetcode/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

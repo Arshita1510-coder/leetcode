@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Arshita1510-coder/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0229-majority-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Arshita1510-coder/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arshita1510-coder/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Arshita1510-coder/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Arshita1510-coder/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Arshita1510-coder/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arshita1510-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Arshita1510-coder/leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshita1510-coder/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Arshita1510-coder/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arshita1510-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Arshita1510-coder/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arshita1510-coder/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Arshita1510-coder/leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Arshita1510-coder/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Arshita1510-coder/leetcode/tree/master/0396-rotate-function) |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/Arshita1510-coder/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -953,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arshita1510-coder/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Arshita1510-coder/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arshita1510-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Arshita1510-coder/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |

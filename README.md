@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arshita1510-coder/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Arshita1510-coder/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Arshita1510-coder/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arshita1510-coder/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Arshita1510-coder/leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Arshita1510-coder/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arshita1510-coder/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0645-set-mismatch](https://github.com/Arshita1510-coder/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arshita1510-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/Arshita1510-coder/leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Arshita1510-coder/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/Arshita1510-coder/leetcode/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/Arshita1510-coder/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arshita1510-coder/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Arshita1510-coder/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Arshita1510-coder/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0761-special-binary-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0761-special-binary-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Arshita1510-coder/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |

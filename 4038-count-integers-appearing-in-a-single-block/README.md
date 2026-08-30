@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-integers-appearing-in-a-single-block">4410. Count Integers Appearing in a Single Block</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-integers-appearing-in-a-single-block">4038. Count Integers Appearing in a Single Block</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>An integer <code>x</code> is <strong>special</strong> if all occurrences of <code>x</code> in <code>nums</code> appear in a single <strong>contiguous</strong> block.</p>
 

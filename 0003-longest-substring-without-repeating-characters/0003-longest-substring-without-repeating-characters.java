@@ -4,7 +4,6 @@ class Solution {
         int res=0;
         int n=s.length();
         HashMap<Character,Integer>freq=new HashMap<>();
-
         for(int high=0;high<n;high++){
             char ch=s.charAt(high);
             freq.put(ch,freq.getOrDefault(ch,0)+1);

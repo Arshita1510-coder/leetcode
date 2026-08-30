@@ -1,19 +1,18 @@
 class Solution {
     public int findLHS(int[] nums) {
         Arrays.sort(nums);
-        int left=0;
-        int ans=0;
-
-        for(int right=0;right<nums.length;right++){
-            while(nums[right]-nums[left]>1){
-                left++;
+        int n=nums.length;
+        int i=0;
+        int maxLength=0;
+        for(int j=0;j<n;j++){
+            while(nums[j]-nums[i]>1){
+                i++;
             }
-            if(nums[right]-nums[left]==1){
-                ans=Math.max(ans,right-left+1);
+            if(nums[j]-nums[i]==1){
+                maxLength=Math.max(maxLength,j-i+1);
             }
-
         }
-        return ans;
+        return maxLength;
         
     }
 }

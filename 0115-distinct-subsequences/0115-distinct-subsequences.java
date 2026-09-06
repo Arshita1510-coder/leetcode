@@ -13,9 +13,9 @@ class Solution {
         int n=s.length();
         int m=t.length();
         int[][]dp=new int[n+1][m+1];
-        for(int row[]:dp) Arrays.fill(row,-1);
+        for(int[]row:dp) Arrays.fill(row,-1);
         return f(n,m,s,t,dp);
-
+        
         
     }
 }

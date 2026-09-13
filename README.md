@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Arshita1510-coder/leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Arshita1510-coder/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Arshita1510-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Arshita1510-coder/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Arshita1510-coder/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Arshita1510-coder/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Arshita1510-coder/leetcode/tree/main/0221-maximal-square/) | Medium |
+| [0264-ugly-number-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Arshita1510-coder/leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Arshita1510-coder/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0312-burst-balloons/) | Hard |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arshita1510-coder/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/Arshita1510-coder/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Arshita1510-coder/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Arshita1510-coder/leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Arshita1510-coder/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |

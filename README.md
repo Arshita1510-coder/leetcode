@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Arshita1510-coder/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Arshita1510-coder/leetcode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/Arshita1510-coder/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0851-loud-and-rich](https://github.com/Arshita1510-coder/leetcode/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/Arshita1510-coder/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Arshita1510-coder/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Arshita1510-coder/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Arshita1510-coder/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Arshita1510-coder/leetcode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/Arshita1510-coder/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Arshita1510-coder/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |

@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshita1510-coder/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arshita1510-coder/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Arshita1510-coder/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arshita1510-coder/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Arshita1510-coder/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Arshita1510-coder/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Arshita1510-coder/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Arshita1510-coder/leetcode/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Arshita1510-coder/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arshita1510-coder/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Arshita1510-coder/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Arshita1510-coder/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Arshita1510-coder/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Arshita1510-coder/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arshita1510-coder/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Arshita1510-coder/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Arshita1510-coder/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |

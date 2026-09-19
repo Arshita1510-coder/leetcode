@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Arshita1510-coder/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Arshita1510-coder/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Arshita1510-coder/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Arshita1510-coder/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arshita1510-coder/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/Arshita1510-coder/leetcode/tree/master/1622-fancy-sequence) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Arshita1510-coder/leetcode/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Arshita1510-coder/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Arshita1510-coder/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arshita1510-coder/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String

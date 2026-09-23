@@ -10,7 +10,7 @@ class Solution {
         if(target==0) return n;
         int left=0;
         int sum=0;
-        int longest=-1;
+        int longest=0;
         for(int right=0;right<n;right++){
             sum+=nums[right];
             while(left<=right&&sum>target){
@@ -21,6 +21,6 @@ class Solution {
                 longest=Math.max(longest,right-left+1);
             }
         }
-        return longest==-1?-1:n-longest;
+        return longest==0?-1:n-longest;
     }
 }

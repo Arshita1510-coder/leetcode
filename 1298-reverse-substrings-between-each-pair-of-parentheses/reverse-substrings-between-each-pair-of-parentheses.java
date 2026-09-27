@@ -1,25 +1,20 @@
 class Solution {
     public String reverseParentheses(String s) {
-        Stack<Character>stack=new Stack<>();
+        Stack<StringBuilder>st=new Stack<>();
+        StringBuilder curr=new StringBuilder();
         for(char ch:s.toCharArray()){
-            if(ch==')'){
-                StringBuilder temp=new StringBuilder();
-                while(stack.peek()!='('){
-                    temp.append(stack.pop());
-                }
-                stack.pop();
-                for(char c:temp.toString().toCharArray()){
-                    stack.push(c);
-                }
+            if(ch=='('){
+                st.push(curr);
+                curr=new StringBuilder();
+            }else if(ch==')'){
+                curr.reverse();
+                StringBuilder temp=st.pop();
+                temp.append(curr);
+                curr=temp;
             }else{
-                stack.push(ch);
+                curr.append(ch);
             }
         }
-        StringBuilder ans=new StringBuilder();
-        while(!stack.isEmpty()){
-            ans.append(stack.pop());
-        }
-        return ans.reverse().toString();
-        
+        return curr.toString();
     }
 }

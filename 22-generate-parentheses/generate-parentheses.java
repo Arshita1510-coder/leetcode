@@ -3,7 +3,6 @@ class Solution {
         List<String>ans=new ArrayList<>();
         solve(ans,"",0,0,n);
         return ans;
-        
     }
     private void solve(List<String>ans,String curr,int open,int close,int n){
         if(open==n&&close==n){

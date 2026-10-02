@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Arshita1510-coder/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Arshita1510-coder/leetcode/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/Arshita1510-coder/leetcode/tree/master/1048-longest-string-chain) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arshita1510-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshita1510-coder/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Arshita1510-coder/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arshita1510-coder/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Arshita1510-coder/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Arshita1510-coder/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |

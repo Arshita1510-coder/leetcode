@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arshita1510-coder/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arshita1510-coder/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Arshita1510-coder/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Arshita1510-coder/leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Arshita1510-coder/leetcode/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Arshita1510-coder/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Arshita1510-coder/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arshita1510-coder/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arshita1510-coder/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/Arshita1510-coder/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arshita1510-coder/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/Arshita1510-coder/leetcode/tree/master/0771-jewels-and-stones) |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Arshita1510-coder/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Arshita1510-coder/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -1390,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Arshita1510-coder/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arshita1510-coder/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |

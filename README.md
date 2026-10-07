@@ -907,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Arshita1510-coder/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Arshita1510-coder/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Arshita1510-coder/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Arshita1510-coder/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Arshita1510-coder/leetcode/tree/master/0486-predict-the-winner) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Arshita1510-coder/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arshita1510-coder/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Arshita1510-coder/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Arshita1510-coder/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Arshita1510-coder/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |

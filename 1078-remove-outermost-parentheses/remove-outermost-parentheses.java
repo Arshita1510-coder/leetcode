@@ -9,9 +9,9 @@ class Solution {
             }else if(ch==')'){
                 level--;
                 if(level>0) result.append(ch);
+
             }
         }
         return result.toString();
-         
     }
 }

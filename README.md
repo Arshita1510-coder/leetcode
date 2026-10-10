@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arshita1510-coder/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Arshita1510-coder/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arshita1510-coder/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Arshita1510-coder/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arshita1510-coder/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Arshita1510-coder/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arshita1510-coder/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arshita1510-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Arshita1510-coder/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/Arshita1510-coder/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arshita1510-coder/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Arshita1510-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Arshita1510-coder/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arshita1510-coder/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Arshita1510-coder/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arshita1510-coder/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Arshita1510-coder/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arshita1510-coder/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Arshita1510-coder/leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -1097,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arshita1510-coder/leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Arshita1510-coder/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arshita1510-coder/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Arshita1510-coder/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Arshita1510-coder/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2751-robot-collisions](https://github.com/Arshita1510-coder/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Arshita1510-coder/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |

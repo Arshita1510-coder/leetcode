@@ -5,7 +5,7 @@ class Solution {
         for(char c:s.toCharArray()){
             if(c=='(') p++;
             else if(c==')') p--;
-            ans=Math.max(ans,p);
+            ans=Math.max(p,ans);
         }
         return ans;
     }

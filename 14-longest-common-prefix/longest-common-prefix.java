@@ -9,7 +9,7 @@ class Solution {
                 return ans.toString();
             }
             ans.append(first.charAt(i));
-        }  
-        return ans.toString();     
+        }
+        return ans.toString();
     }
 }

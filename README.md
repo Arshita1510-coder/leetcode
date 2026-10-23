@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arshita1510-coder/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-trionic-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arshita1510-coder/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Arshita1510-coder/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Arshita1510-coder/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arshita1510-coder/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Arshita1510-coder/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Arshita1510-coder/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Arshita1510-coder/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Arshita1510-coder/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Arshita1510-coder/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |

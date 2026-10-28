@@ -4,8 +4,9 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        boolean[][] dp = new boolean[n][1024];
-        dp[0][grid[0][0]] = true;
+        boolean[][][] dp = new boolean[m][n][1024];
+
+        dp[0][0][grid[0][0]] = true;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -14,33 +15,28 @@ class Solution {
                     continue;
                 }
 
-                boolean[] next = new boolean[1024];
                 int val = grid[i][j];
 
-               
                 if (i > 0) {
                     for (int x = 0; x < 1024; x++) {
-                        if (dp[j][x]) {
-                            next[x ^ val] = true;
+                        if (dp[i - 1][j][x]) {
+                            dp[i][j][x ^ val] = true;
                         }
                     }
                 }
 
-                
                 if (j > 0) {
                     for (int x = 0; x < 1024; x++) {
-                        if (dp[j - 1][x]) {
-                            next[x ^ val] = true;
+                        if (dp[i][j - 1][x]) {
+                            dp[i][j][x ^ val] = true;
                         }
                     }
                 }
-
-                dp[j] = next;
             }
         }
 
         for (int x = 0; x < 1024; x++) {
-            if (dp[n - 1][x]) {
+            if (dp[m - 1][n - 1][x]) {
                 return x;
             }
         }

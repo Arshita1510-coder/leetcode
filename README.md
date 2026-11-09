@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Arshita1510-coder/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arshita1510-coder/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/Arshita1510-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Arshita1510-coder/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Arshita1510-coder/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/Arshita1510-coder/leetcode/tree/master/1306-jump-game-iii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Arshita1510-coder/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/Arshita1510-coder/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/Arshita1510-coder/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Arshita1510-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Arshita1510-coder/leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arshita1510-coder/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Arshita1510-coder/leetcode/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Arshita1510-coder/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Arshita1510-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Arshita1510-coder/leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Arshita1510-coder/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Arshita1510-coder/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Arshita1510-coder/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Arshita1510-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Arshita1510-coder/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1264,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Arshita1510-coder/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Arshita1510-coder/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Arshita1510-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arshita1510-coder/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Arshita1510-coder/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1854-maximum-population-year](https://github.com/Arshita1510-coder/leetcode/tree/main/1854-maximum-population-year/) | Easy |
@@ -1379,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arshita1510-coder/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Arshita1510-coder/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Arshita1510-coder/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Arshita1510-coder/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Arshita1510-coder/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arshita1510-coder/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
